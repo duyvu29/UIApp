@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UIApp</string>
+    <string name="name">Hi, <b>Bill Gates</b></string>
+</resources>
